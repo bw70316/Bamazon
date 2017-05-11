@@ -1,0 +1,25 @@
+{
+  "name": "videos",
+  "version": "1.0.0",
+  "description": "folder init",
+  "main": "cd",
+  "scripts": {
+    "test": "defs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "geocoder": "^0.2.3",
+    "inquirer": "^3.0.6",
+    "mysql": "^2.13.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.0",
+    "weather-js": "^2.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "activity"
+  }
+}

@@ -5,3 +5,5 @@ Bamazon store that will allow customers to select from a table of products and "
 Link to video demo: https://www.youtube.com/watch?v=PiduTgAOR_o
 
 I know its a little fuzzy at one point, but i swear I'm not trying to pull a fistful of quarters type deal. 
+
+The packages I used for this code include MySQL, inquirer, and cli-table. I have additional listed in my package.json, but they are ancillary. 
